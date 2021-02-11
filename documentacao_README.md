@@ -1,7 +1,7 @@
 ## Tecnologias utilizadas para desenvolver a aplicação
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (Puro)
 
 ## Passo a passo para executar a aplicação
 Após fazer o download do arquivo ZIP com o conteúdo da aplicação:
