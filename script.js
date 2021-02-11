@@ -39,7 +39,7 @@ function buscar() {
             <br><br>
             Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Elétrico</strong>
             <br><br>
             `
             })
@@ -94,7 +94,7 @@ function buscar() {
             <br><br>
             Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Água</strong>
             <br><br>
             `
            })
@@ -122,7 +122,7 @@ function buscar() {
             <br><br>
             Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Grama</strong>
             <br><br>
             `
            })
@@ -150,7 +150,7 @@ function buscar() {
             <br><br>
             Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Terra</strong>
             <br><br>
             `
            })
@@ -178,7 +178,7 @@ function buscar() {
             <br><br>
             Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Inseto</strong>
             <br><br>
             `
            })
@@ -206,7 +206,7 @@ function buscar() {
             <br><br>
             Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Pedra</strong>
             <br><br>
             `
            })
@@ -234,7 +234,7 @@ function buscar() {
             <br><br>
             Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Fogo</strong>
             <br><br>
             `
            })
@@ -262,7 +262,7 @@ function buscar() {
                 <br><br>
                 Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
                 <br><br>
-                Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+                Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Normal</strong>
                 <br><br>
                 `
            })
