@@ -63,9 +63,9 @@ function buscar() {
             infos.innerHTML = `
             <strong>Não está chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
@@ -91,11 +91,11 @@ function buscar() {
             infos.innerHTML = `
             <strong>Não está chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Água</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
             `
            })
@@ -119,11 +119,11 @@ function buscar() {
             infos.innerHTML = `
             <strong>Não está chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Grama</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
             `
            })
@@ -147,11 +147,11 @@ function buscar() {
             infos.innerHTML = `
             <strong>Não está chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Terra</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
             `
            })
@@ -175,11 +175,11 @@ function buscar() {
             infos.innerHTML = `
             <strong>Não está chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Inseto</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
             `
            })
@@ -203,11 +203,11 @@ function buscar() {
             infos.innerHTML = `
             <strong>Não está chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Pedra</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
             `
            })
@@ -231,11 +231,11 @@ function buscar() {
             infos.innerHTML = `
             <strong>Não está chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Fogo</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
             `
            })
@@ -259,11 +259,11 @@ function buscar() {
                 infos.innerHTML = `
                 <strong>Não está chovendo</strong> em ${cidade}
                 <br><br>
-                Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+                Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
                 <br><br>
-                Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+                Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
                 <br><br>
-                Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Normal</strong>
+                Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
                 <br><br>
                 `
            })
