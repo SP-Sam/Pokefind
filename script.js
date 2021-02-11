@@ -35,13 +35,12 @@ function buscar() {
             infos.innerHTML = `
             Está <strong>chovendo</strong> em ${cidade}
             <br><br>
-            Temperatura em <strong>${cidade}:</strong> ${temperatura2}°C
+            Temperatura em ${cidade}: <strong>${temperatura2}°C</strong>
             <br><br>
-            Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
+            Em ${cidade} você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
-            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Elétrico</strong>
+            Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
             <br><br>
-
             `
             })
             .catch(function (error) {
