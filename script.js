@@ -68,6 +68,7 @@ function buscar() {
             Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Gelo</strong>
+            <br><br>
             `
            })
            .catch(function (error) {
@@ -95,6 +96,7 @@ function buscar() {
             Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Água</strong>
+            <br><br>
             `
            })
            .catch(function (error) {
@@ -122,6 +124,7 @@ function buscar() {
             Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Grama</strong>
+            <br><br>
             `
            })
            .catch(function (error) {
@@ -149,6 +152,7 @@ function buscar() {
             Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Terra</strong>
+            <br><br>
             `
            })
            .catch(function (error) {
@@ -176,6 +180,7 @@ function buscar() {
             Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Inseto</strong>
+            <br><br>
             `
            })
            .catch(function (error) {
@@ -203,6 +208,7 @@ function buscar() {
             Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Pedra</strong>
+            <br><br>
             `
            })
            .catch(function (error) {
@@ -230,6 +236,7 @@ function buscar() {
             Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
             <br><br>
             Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Fogo</strong>
+            <br><br>
             `
            })
            .catch(function (error) {
@@ -257,6 +264,7 @@ function buscar() {
                 Em <strong>${cidade}</strong> você pode encontrar um <strong>${data.pokemon[0].pokemon.name}</strong>
                 <br><br>
                 Nessas condições climáticas podemos encontrar pokémons do tipo <strong>Normal</strong>
+                <br><br>
                 `
            })
            .catch(function (error) {
